@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "4729",
+      "name": "Manish Bhardwaj",
+      "email": "xyz@jQuery.com",
+      "phone": "8000868703",
+      "country": "india",
+      "gender": "male",
+      "password": "@Ac123456"
+    },
+    {
+      "id": "06b7",
+      "name": "Manish Bhardwaj",
+      "email": "talktomanishbhardwaj0010@gmail.com",
+      "phone": "8930141138",
+      "country": "india",
+      "gender": "male",
+      "password": "Ram@12345"
+    }
+  ]
+}
